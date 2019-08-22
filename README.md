@@ -1,2 +1,2 @@
 # README
-[Casaub0n github page](https://casaub0n.github.io/)
+This repository page redirect to [Casaub0n netlify page](https://casaub0n.netlify.com/)
