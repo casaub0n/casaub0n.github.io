@@ -1,2 +1,2 @@
 # README
-This repository page redirect to [Casaub0n netlify page](https://casaub0n.netlify.com/)
+This repository page redirect to [vercel app](casaub0n-gh.casaub0n.vercel.app/)
